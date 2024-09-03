@@ -1,4 +1,4 @@
-![Screenshot 2024-09-03 160845](https://github.com/user-attachments/assets/b6dd9e7c-4179-4f57-9523-5b16827f13fd)## Date:
+## Date:
 # Ex.No:3 DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
